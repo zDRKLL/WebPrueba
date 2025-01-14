@@ -1,11 +1,16 @@
 main {
-  background-color: lillac;
+  background-color: pink;
 }
 
 h1 {
   color: darkblue;
   font-size: 40px;
   text-align: center;
+}
+
+h2 {
+  background-color: blue;
+  color: red;
 }
 
 p {
